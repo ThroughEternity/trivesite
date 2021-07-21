@@ -1,0 +1,81 @@
+.buttoncontact {
+    font-size: 16px;
+    width: 150px;
+    height: 50px;
+    border: none;
+    color: white;
+    
+    text-align: center;
+    background: #62D0DF;
+border-radius: 50px;
+}
+.button {
+    width: 150px;
+    height: 50px;
+    border: none;
+    color: white;
+    text-align: center;
+    background-color: #FAB63E;
+}
+
+.buttontext{
+font-family: Larsseit;
+font-size: 16px;
+line-height: 23px;
+display: flex;
+align-items: center;
+letter-spacing: 0.1em;
+color: #FAB63E;
+}
+.buttonclear{
+    background-color: Transparent;
+    background-repeat:no-repeat;
+    border: none;
+    cursor:pointer;
+    overflow: hidden;
+    outline:none;
+    padding-left: 38px;
+}
+.h4{
+font-family: Larsseit;
+font-size: 24px;
+line-height: 27px;
+letter-spacing: -0.035em;
+color: #62D0DF;
+margin-bottom: 40px;
+}
+
+.h1{
+    font-family: Larsseit;
+font-size: 48px;
+line-height: 53px;
+letter-spacing: -0.035em;
+color: #22356F;
+margin-bottom: 70px;
+}
+
+.headernav{
+    padding-top: 20px;
+}
+.header{
+    background: #F4F9E2;
+}
+
+.nav_text{
+    font-family: Larsseit;
+font-size: 14px;
+line-height: 16px;
+color: #22356F;
+}
+
+.phead{
+    font-family: Larsseit;
+font-size: 24px;
+line-height: 42px;
+color: #22356F;
+margin-bottom: 40px;
+}
+
+.headinfo{
+    padding-top: 174px;
+}
