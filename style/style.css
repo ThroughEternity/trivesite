@@ -89,3 +89,23 @@ margin-bottom: 40px;
 .containerimg{
     
 }
+.userimg {
+    display: block;
+    width: 100%;
+    position: relative;}
+
+
+.imggirl{
+    flex-shrink: 0;}
+   
+    .ss{
+            position: relative;
+            margin: 0!important;
+            padding: 0!important;
+            overflow: hidden;
+    }
+    .ss1{
+            padding: 0px;
+            margin: 0px;
+    
+    }
