@@ -8,6 +8,10 @@
     font-style: normal;
   } */
 
+  .aboutus{
+      margin-top: 150px;
+      margin-bottom: 60px;
+  }
 .buttoncontact {
     font-size: 16px;
     width: 150px;
@@ -90,6 +94,21 @@ color: #62D0DF;
 
 }
 
+.h5{
+    font-family: Larsseit;
+font-size: 16px;
+line-height: 19px;
+text-align: center;
+letter-spacing: 0.06em;
+color: rgba(34, 53, 111, 0.5);
+margin-bottom: 24px;
+}
+
+.h6{
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
 .headernav{
     padding-top: 20px;
 }
@@ -112,12 +131,26 @@ color: #22356F;
 margin-bottom: 40px;
 }
 
+.pabout{
+    font-family: Larsseit;
+font-size: 16px;
+line-height: 23px;
+letter-spacing: 0.06em;
+color: #22356F;
+
+}
 .pwantto{
     font-family: Larsseit;
     font-size: 24px;
     line-height: 35px; 
     color: #FFFFFF;
     
+}
+
+.p6{
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .headinfo{
@@ -129,11 +162,10 @@ margin-bottom: 40px;
 }
 .userimg {
     display: block;
-    width: 100%;
+    width: auto;
     height: auto;
-    position: relative;}
-
-
+    position: relative;
+}
 
    
     .ssgirl{
@@ -152,3 +184,34 @@ margin-bottom: 40px;
 .thrivehead{
     padding-bottom: 20px;
 }
+
+.weightlifting{
+ width: 360px;
+height: 360px;
+background: #FFE2DE;
+}
+.runningspinn{
+    width: 360px;
+    height: 360px;
+    background: #C4E769;
+}
+
+.pumpingirona{
+    width: 360px;
+    height: 360px;
+    background: #62D0DF;
+}
+
+.pumpingironb{
+    width: 360px;
+    height: 360px;
+    background: #0052C1;
+}
+
+.pwewhant{
+font-family: Larsseit;
+font-size: 24px;
+line-height: 34px;
+letter-spacing: 0.005em;
+color: #22356F;}
+
