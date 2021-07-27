@@ -105,9 +105,13 @@ margin-bottom: 24px;
 }
 
 .h6{
-    text-align: center;
-    margin-left: auto;
-    margin-right: auto;
+    font-family: Larsseit;
+    font-size: 28px;
+    line-height: 33px;
+    letter-spacing: -0.03em;
+    color: #22356F;
+    margin-bottom: 26px;
+    
 }
 .headernav{
     padding-top: 20px;
@@ -148,9 +152,12 @@ color: #22356F;
 }
 
 .p6{
-    text-align: center;
-    margin-left: auto;
-    margin-right: auto;
+    font-family: Larsseit;
+    font-size: 16px;
+    line-height: 25px;
+    letter-spacing: -0.03em;
+    color: rgba(34, 53, 111, 0.5);
+    margin-bottom: 92px;
 }
 
 .headinfo{
