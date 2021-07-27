@@ -31,15 +31,11 @@ border-radius: 50px;
     text-align: center;
     background-color: #FAB63E;
 }
-.contbottom{
-    padding-bottom: 75px;
-}
-.colortext{    font-family: Larsseit;
-    font-size: 20px;
-    line-height: 29.3px;
-    letter-spacing: -0.006em;
-    color: #FFFFFF;
-    
+
+
+.botcol{
+    background: #62D0DF;
+
 }
 
 .bgwhy{ 
@@ -54,7 +50,20 @@ display: flex;
 align-items: center;
 letter-spacing: 0.1em;
 color: #FAB63E;
+margin-bottom: 42px;
 }
+
+.buttontextblu{
+font-family: Larsseit;
+font-size: 16px;
+line-height: 23px;
+display: flex;
+align-items: center;
+letter-spacing: 0.1em;
+color: #62D0DF;
+margin-bottom: 42px;
+}
+
 .buttonclear{
     background-color: Transparent;
     background-repeat:no-repeat;
@@ -65,6 +74,25 @@ color: #FAB63E;
     padding-left: 38px;
 }
 
+.buttonclearget{
+    background-color: Transparent;
+    background-repeat:no-repeat;
+    border: none;
+    cursor:pointer;
+    overflow: hidden;
+    outline:none;
+}
+
+.contbottom{
+    padding-bottom: 75px;
+}
+.colortext{    font-family: Larsseit;
+    font-size: 20px;
+    line-height: 29.3px;
+    letter-spacing: -0.006em;
+    color: #FFFFFF;
+    
+}
 
 .h1{
     font-family: Larsseit;
@@ -113,6 +141,29 @@ margin-bottom: 24px;
     margin-bottom: 26px;
     
 }
+
+.h7{
+    font-family: Larsseit;
+font-size: 16px;
+line-height: 12px;
+letter-spacing: 0.06em;
+color: #FFFFFF;
+}
+
+.diwready{
+    padding-top: 103px;
+
+}
+.hready{
+    font-family: Larsseit;
+font-size: 64px;
+line-height: 94px;
+letter-spacing: -0.01em;
+color: #FFFFFF;
+margin-top: 230px;
+margin-bottom: 70px;
+}
+
 .headernav{
     padding-top: 20px;
 }
@@ -135,6 +186,15 @@ color: #22356F;
 margin-bottom: 40px;
 }
 
+.ptake{
+font-family: Larsseit;
+font-size: 36px;
+line-height: 53px;
+letter-spacing: -0.005em;
+color: #FFFFFF;
+margin-bottom: 50px;
+}
+
 .pabout{
     font-family: Larsseit;
 font-size: 16px;
@@ -150,6 +210,7 @@ color: #22356F;
     color: #FFFFFF;
     
 }
+
 
 .p6{
     font-family: Larsseit;
@@ -167,6 +228,11 @@ color: #22356F;
 .containerimg{
     
 }
+
+.colorthrivetalk{
+    color: #6CD3E1;
+}
+
 .userimg {
     display: block;
     width: auto;
@@ -187,6 +253,20 @@ color: #22356F;
             margin: 0px;
     
     }
+    .sstiger{
+        position: relative;
+        margin: 0!important;
+        padding: 0!important;
+        overflow: hidden;
+        background: #22356F
+    }
+    .sstwomen{
+        position: relative;
+        margin: 0!important;
+        padding: 0!important;
+        overflow: hidden;
+        
+}
  
 .thrivehead{
     padding-bottom: 20px;
@@ -197,10 +277,38 @@ color: #22356F;
 height: 360px;
 background: #FFE2DE;
 }
+
 .runningspinn{
     width: 360px;
     height: 360px;
     background: #C4E769;
+}
+
+.pmdd{
+font-family: Larsseit;
+font-size: 36px;
+line-height: 53px;
+letter-spacing: -0.01em;
+color: #22356F;
+margin-bottom: 152px;
+}
+
+.pfooter{
+ font-family: Larsseit;
+font-size: 14px;
+line-height: 23px;
+letter-spacing: -0.006em;
+color: rgba(34, 53, 111, 0.5);
+}
+
+.pbot{
+    font-family: Larsseit;
+font-size: 14px;
+line-height: 11px;
+letter-spacing: -0.006em;
+color: #FFFFFF;
+margin-top: 32px;
+margin-bottom: 26px;
 }
 
 .pumpingirona{
@@ -222,3 +330,26 @@ line-height: 34px;
 letter-spacing: 0.005em;
 color: #22356F;}
 
+.hyoushold{
+font-family: Larsseit;
+font-size: 16px;
+line-height: 12px;
+letter-spacing: 0.06em;
+color: #22356F;
+padding-top: 103px;
+margin-bottom: 225px;
+}
+
+.hfooter{
+    font-family: Larsseit;
+font-size: 14px;
+line-height: 11px;
+letter-spacing: -0.006em;
+color: #22356F;
+margin-bottom: 50px;
+}
+
+
+.infobot{
+    margin-top: 98px;
+}
