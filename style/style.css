@@ -1,3 +1,17 @@
+/* @font-face {
+    font-family: 'Larsseit';
+    src: local('Larsseit Thin'), local('Larsseit-Thin'),
+        url('../Fonts/Larsseit-Thin.woff2') format('woff2'),
+        url('../Fonts/Larsseit-Thin.woff') format('woff'),
+        url('../Fonts/Larsseit-Thin.ttf') format('truetype');
+    font-weight: 100;
+    font-style: normal;
+  } */
+
+  .aboutus{
+      margin-top: 150px;
+      margin-bottom: 60px;
+  }
 .buttoncontact {
     font-size: 16px;
     width: 150px;
@@ -18,6 +32,16 @@ border-radius: 50px;
     background-color: #FAB63E;
 }
 
+
+.botcol{
+    background: #62D0DF;
+
+}
+
+.bgwhy{ 
+    background-color: #62D0DF;
+}
+
 .buttontext{
 font-family: Larsseit;
 font-size: 16px;
@@ -26,7 +50,20 @@ display: flex;
 align-items: center;
 letter-spacing: 0.1em;
 color: #FAB63E;
+margin-bottom: 42px;
 }
+
+.buttontextblu{
+font-family: Larsseit;
+font-size: 16px;
+line-height: 23px;
+display: flex;
+align-items: center;
+letter-spacing: 0.1em;
+color: #62D0DF;
+margin-bottom: 42px;
+}
+
 .buttonclear{
     background-color: Transparent;
     background-repeat:no-repeat;
@@ -36,13 +73,25 @@ color: #FAB63E;
     outline:none;
     padding-left: 38px;
 }
-.h4{
-font-family: Larsseit;
-font-size: 24px;
-line-height: 27px;
-letter-spacing: -0.035em;
-color: #62D0DF;
-margin-bottom: 40px;
+
+.buttonclearget{
+    background-color: Transparent;
+    background-repeat:no-repeat;
+    border: none;
+    cursor:pointer;
+    overflow: hidden;
+    outline:none;
+}
+
+.contbottom{
+    padding-bottom: 75px;
+}
+.colortext{    font-family: Larsseit;
+    font-size: 20px;
+    line-height: 29.3px;
+    letter-spacing: -0.006em;
+    color: #FFFFFF;
+    
 }
 
 .h1{
@@ -51,6 +100,67 @@ font-size: 48px;
 line-height: 53px;
 letter-spacing: -0.035em;
 color: #22356F;
+margin-bottom: 70px;
+}
+
+.h3{
+    font-family: Larsseit;
+font-size: 36px;
+line-height: 27px;
+letter-spacing: -0.006em;
+color: #FFFFFF;
+margin-bottom: 75px;
+margin-top: 151px;
+}
+
+.h4{
+font-family: Larsseit;
+font-size: 24px;
+line-height: 27px;
+letter-spacing: -0.035em;
+color: #62D0DF;
+
+}
+
+.h5{
+    font-family: Larsseit;
+font-size: 16px;
+line-height: 19px;
+text-align: center;
+letter-spacing: 0.06em;
+color: rgba(34, 53, 111, 0.5);
+margin-bottom: 24px;
+}
+
+.h6{
+    font-family: Larsseit;
+    font-size: 28px;
+    line-height: 33px;
+    letter-spacing: -0.03em;
+    color: #22356F;
+    margin-bottom: 26px;
+    
+}
+
+.h7{
+    font-family: Larsseit;
+font-size: 16px;
+line-height: 12px;
+letter-spacing: 0.06em;
+color: #FFFFFF;
+}
+
+.diwready{
+    padding-top: 103px;
+
+}
+.hready{
+    font-family: Larsseit;
+font-size: 64px;
+line-height: 94px;
+letter-spacing: -0.01em;
+color: #FFFFFF;
+margin-top: 230px;
 margin-bottom: 70px;
 }
 
@@ -76,6 +186,184 @@ color: #22356F;
 margin-bottom: 40px;
 }
 
+.ptake{
+font-family: Larsseit;
+font-size: 36px;
+line-height: 53px;
+letter-spacing: -0.005em;
+color: #FFFFFF;
+margin-bottom: 50px;
+}
+
+.pabout{
+    font-family: Larsseit;
+font-size: 16px;
+line-height: 23px;
+letter-spacing: 0.06em;
+color: #22356F;
+
+}
+.pwantto{
+    font-family: Larsseit;
+    font-size: 24px;
+    line-height: 35px; 
+    color: #FFFFFF;
+    
+}
+
+
+.p6{
+    font-family: Larsseit;
+    font-size: 16px;
+    line-height: 25px;
+    letter-spacing: -0.03em;
+    color: rgba(34, 53, 111, 0.5);
+    margin-bottom: 92px;
+}
+
 .headinfo{
     padding-top: 174px;
 }
+
+.containerimg{
+    
+}
+
+.colorthrivetalk{
+    color: #6CD3E1;
+}
+
+.userimg {
+    display: block;
+    width: auto;
+    height: auto;
+    position: relative;
+}
+
+   
+    .ssgirl{
+            position: relative;
+            margin: 0!important;
+            padding: 0!important;
+            overflow: hidden;
+            background: #62D0DF;
+    }
+
+    .sswrap{
+        position: relative;
+        margin: 0!important;
+        padding: 0!important;
+        overflow: hidden;
+    }
+    
+    .ss1{
+            padding: 0px;
+            margin: 0px;
+    
+    }
+    .sstiger{
+        position: relative;
+        margin: 0!important;
+        padding: 0!important;
+        overflow: hidden;
+        background: #22356F
+    }
+    .sstwomen{
+        position: relative;
+        margin: 0!important;
+        padding: 0!important;
+        overflow: hidden;
+        
+}
+ 
+.thrivehead{
+    padding-bottom: 20px;
+}
+
+.weightlifting{
+ width: 360px;
+height: 360px;
+background: #FFE2DE;
+}
+
+.runningspinn{
+    width: 360px;
+    height: 360px;
+    background: #C4E769;
+}
+
+.pmdd{
+font-family: Larsseit;
+font-size: 36px;
+line-height: 53px;
+letter-spacing: -0.01em;
+color: #22356F;
+margin-bottom: 152px;
+}
+
+.pfooter{
+ font-family: Larsseit;
+font-size: 14px;
+line-height: 23px;
+letter-spacing: -0.006em;
+color: rgba(34, 53, 111, 0.5);
+}
+
+.pbot{
+    font-family: Larsseit;
+font-size: 14px;
+line-height: 11px;
+letter-spacing: -0.006em;
+color: #FFFFFF;
+margin-top: 32px;
+margin-bottom: 26px;
+}
+
+.pumpingirona{
+    width: 360px;
+    height: 360px;
+    background: #62D0DF;
+}
+
+.pumpingironb{
+    width: 360px;
+    height: 360px;
+    background: #0052C1;
+}
+
+.pwewhant{
+font-family: Larsseit;
+font-size: 24px;
+line-height: 34px;
+letter-spacing: 0.005em;
+color: #22356F;}
+
+.hyoushold{
+font-family: Larsseit;
+font-size: 16px;
+line-height: 12px;
+letter-spacing: 0.06em;
+color: #22356F;
+padding-top: 103px;
+margin-bottom: 225px;
+}
+
+.hfooter{
+    font-family: Larsseit;
+font-size: 14px;
+line-height: 11px;
+letter-spacing: -0.006em;
+color: #22356F;
+margin-bottom: 50px;
+}
+
+
+.infobot{
+    margin-top: 98px;
+}
+
+
+
+
+
+
