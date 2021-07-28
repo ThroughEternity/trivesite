@@ -248,6 +248,14 @@ color: #22356F;
             overflow: hidden;
             background: #62D0DF;
     }
+
+    .sswrap{
+        position: relative;
+        margin: 0!important;
+        padding: 0!important;
+        overflow: hidden;
+    }
+    
     .ss1{
             padding: 0px;
             margin: 0px;
@@ -353,3 +361,9 @@ margin-bottom: 50px;
 .infobot{
     margin-top: 98px;
 }
+
+
+
+
+
+
