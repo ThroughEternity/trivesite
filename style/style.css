@@ -23,6 +23,19 @@
     background: #62D0DF;
 border-radius: 50px;
 }
+
+.buttoncontactmini{
+    font-size: 16px;
+    width: 100px;
+    height: 35px;
+    border: none;
+    color: white;
+    
+    text-align: center;
+    background: #62D0DF;
+border-radius: 35px;
+}
+
 .button {
     width: 150px;
     height: 50px;
@@ -50,6 +63,26 @@ display: flex;
 align-items: center;
 letter-spacing: 0.1em;
 color: #FAB63E;
+}
+
+.butttext.{
+    font-family: Larsseit;
+font-size: 14px;
+line-height: 16px;
+display: flex;
+align-items: center;
+
+color: #FFFFFF;
+}
+
+.butttextmini{
+    font-family: Larsseit;
+    font-size: 14px;
+    line-height: 16px;
+    display: flex;
+    align-items: center;
+    
+    color: #FFFFFF;
 }
 
 .buttontextblu{
@@ -414,3 +447,42 @@ margin-bottom: 50px;
 .eightpict{
     padding-bottom: 70px;
 }
+
+
+
+
+.menu li {
+    display: inline-flex;
+    flex-direction: row;
+    list-style-type: none;
+    text-decoration: none;
+    border: 0;
+    outline: none;  
+}
+
+.menu__link  {
+    font-family: Roboto;
+    font-weight: 500;
+    font-size: 1rem;
+    line-height: 26px;
+    color: #FFFFFF;  
+}
+
+.dropdown-menu {
+    display: none;
+    border: none;
+    outline: none;
+    /*margin-left: -1em;*/
+    list-style-type: none;
+    font-size: 1.2rem;
+    font-weight: 600;
+}
+  
+#dropdownMenuButton {
+    background-color: #62D0DF;
+    color: #FFFFFF;
+    border: none;
+    outline: none;
+    font-size: 1rem;
+}
+
